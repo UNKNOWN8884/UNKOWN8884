@@ -1,3 +1,4 @@
+
 from pyrogram import Client, filters
  
 EMOJI = "🎲" #use the emoji which supports animation
@@ -14,3 +15,4 @@ async def roll_dice(client, message):
         emoji=EMOJI,
         disable_notification=True,
         reply_to_message_id=rep_mesg_id
+    )
