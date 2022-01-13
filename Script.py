@@ -40,6 +40,8 @@ class script(object):
 2./throw - Ͳϴ ᎷᎪᏦᎬ ᎠᎡᎪͲ
 3./goal - Ͳϴ ᎷᎪᏦᎬ Ꭺ ᏀϴᎪᏞ
 4./vthrow- Ͳϴ ᏢᏞᎪᎽ Ꭺ ᏙϴᏞᏞᎽ ᏴᎪᏞᏞ
+5./sthrow- Ͳϴ ͲᎻᎡϴᏔ Ꭺ ᎪΝϴͲᎻᎬᎡ ͲᎪᎡᏀᎬͲ
+6./luck- Ͳϴ ͲᎡᎽ ᎽϴႮᎡ ᏞႮᏟᏦ
 """
     BUTTON_TXT = """Help: <b>Buttons</b>
 
