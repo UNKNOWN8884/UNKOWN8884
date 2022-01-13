@@ -39,6 +39,7 @@ class script(object):
 1. /dice- Ͳϴ ᎡϴᏞᏞ ͲᎻᎬ ᎠᏆᏟᎬ
 2./throw - Ͳϴ ᎷᎪᏦᎬ ᎠᎡᎪͲ
 3./goal - Ͳϴ ᎷᎪᏦᎬ Ꭺ ᏀϴᎪᏞ
+4./vthrow- Ͳϴ ᏢᏞᎪᎽ Ꭺ ᏙϴᏞᏞᎽ ᏴᎪᏞᏞ
 """
     BUTTON_TXT = """Help: <b>Buttons</b>
 
