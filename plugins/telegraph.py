@@ -9,7 +9,7 @@ from telegraph import upload_file
 async def telegraph(client, message):
     replied = message.reply_to_message
     if not replied:
-        await message.reply("Reply to a supported media file")
+        await message.reply("ᎡᎬᏢᏞᎽ Ͳϴ Ꭺ ՏႮᏢᏢϴᎡͲᎬᎠ ᎷᎬᎠᏆᎪ ҒᏆᏞᎬ🧑‍💻")
         return
     if not (
         (replied.photo and replied.photo.file_size <= 5242880)
